@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/email/commit/e23db323d1ac20ecd7585df140eaa4d05ea70a5b",
       "git:hexsha": "e23db323d1ac20ecd7585df140eaa4d05ea70a5b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/email/commit/0940a32204b8ca573e2063e387b2a0b61d83b4a0",
