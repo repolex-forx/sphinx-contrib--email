@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "email",
+  "versions": [
+    {
+      "commit": "e23db323d1ac20ecd7585df140eaa4d05ea70a5b",
+      "parsed_at": "2026-10-15T14:04:57.310437+00:00",
+      "filetree": "filetree/e23db323d1ac20ecd7585df140eaa4d05ea70a5b.nq.gz",
+      "blobs": [
+        "blob/91005ad6084bbf2705ef63fb799bdc8303a86a9b.nq.gz",
+        "blob/e67ba6a139aaa5f024ebd3a1527eec6a67528eca.nq.gz",
+        "blob/551e212a7d54407a9c99cddbdba4201935a461fa.nq.gz",
+        "blob/810bac799ff3838bedc710e2a223d5743f845e50.nq.gz",
+        "blob/99755ed3fe41ab293379c7d84a288c31bb156c11.nq.gz",
+        "blob/2bec4803c4bdca67d49f2dcb974faae129d6549a.nq.gz",
+        "blob/c0f62de6c4377875191d25b52d1ee6d564477d4f.nq.gz",
+        "blob/31b59ff474b5f70949547653c5a9fafc0b917a8f.nq.gz",
+        "blob/a7339aefb4ddf160758bd32ba3b879d1cc7ee3b7.nq.gz",
+        "blob/416634f5288f7f60a9b9f68eb63afd0bed3443a2.nq.gz",
+        "blob/707a001a832e364b9dbacf109ee3a140aae9a2ec.nq.gz",
+        "blob/ca09957ff9b9fb463660290cdadd219219ae6e9c.nq.gz",
+        "blob/4fdfbbbaa1d6f03412fd345906bcc821ad6b795c.nq.gz",
+        "blob/8917a484e116cfb558c151c2c54d3f3fc7332abc.nq.gz",
+        "blob/ca52345562689867d4d9de2206d12725af37a345.nq.gz",
+        "blob/9f428d766b8c012937da20735e5f39e75d980c48.nq.gz",
+        "blob/945e941393e42ba377317c200478b5e61f531042.nq.gz",
+        "blob/6f7a2c15e2ea46e03b6863906714bf3457bf50ae.nq.gz",
+        "blob/042c8f79713c19ade417cf69f0451e6066d6c6af.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
