@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "email",
+  "versions": [
+    {
+      "commit": "e23db323d1ac20ecd7585df140eaa4d05ea70a5b",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:07:12.204645+00:00"
+    }
+  ]
+}
